@@ -1,0 +1,11 @@
+/Users/daniel/Documents/Workspace/Cursos/curso-C-Sharp-xadrez/bin/Debug/netcoreapp2.1/curso-C-Sharp-xadrez.deps.json
+/Users/daniel/Documents/Workspace/Cursos/curso-C-Sharp-xadrez/bin/Debug/netcoreapp2.1/curso-C-Sharp-xadrez.runtimeconfig.json
+/Users/daniel/Documents/Workspace/Cursos/curso-C-Sharp-xadrez/bin/Debug/netcoreapp2.1/curso-C-Sharp-xadrez.runtimeconfig.dev.json
+/Users/daniel/Documents/Workspace/Cursos/curso-C-Sharp-xadrez/bin/Debug/netcoreapp2.1/curso-C-Sharp-xadrez.dll
+/Users/daniel/Documents/Workspace/Cursos/curso-C-Sharp-xadrez/bin/Debug/netcoreapp2.1/curso-C-Sharp-xadrez.pdb
+/Users/daniel/Documents/Workspace/Cursos/curso-C-Sharp-xadrez/obj/Debug/netcoreapp2.1/curso-C-Sharp-xadrez.csprojAssemblyReference.cache
+/Users/daniel/Documents/Workspace/Cursos/curso-C-Sharp-xadrez/obj/Debug/netcoreapp2.1/curso-C-Sharp-xadrez.csproj.CoreCompileInputs.cache
+/Users/daniel/Documents/Workspace/Cursos/curso-C-Sharp-xadrez/obj/Debug/netcoreapp2.1/curso-C-Sharp-xadrez.AssemblyInfoInputs.cache
+/Users/daniel/Documents/Workspace/Cursos/curso-C-Sharp-xadrez/obj/Debug/netcoreapp2.1/curso-C-Sharp-xadrez.AssemblyInfo.cs
+/Users/daniel/Documents/Workspace/Cursos/curso-C-Sharp-xadrez/obj/Debug/netcoreapp2.1/curso-C-Sharp-xadrez.dll
+/Users/daniel/Documents/Workspace/Cursos/curso-C-Sharp-xadrez/obj/Debug/netcoreapp2.1/curso-C-Sharp-xadrez.pdb
