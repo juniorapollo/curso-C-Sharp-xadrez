@@ -9,11 +9,8 @@ namespace curso_C_Sharp_xadrez
     {
         static void Main(string[] args)
         {
-            Posicao p;
+            Tabuleiro tab = new Tabuleiro(8,8);
 
-            p = new Posicao(1,2);
-
-            Console.WriteLine("Posicao " +p);
             Console.ReadLine();
         }
     }
